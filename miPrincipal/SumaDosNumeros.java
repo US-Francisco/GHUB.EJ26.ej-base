@@ -1,5 +1,5 @@
 package miPrincipal;
-import java.Scanner;
+import java.util.Scanner;
 
 public class SumaDosNumeros{
   Scanner Entrada = new Scanner(System.in);
